@@ -1,5 +1,5 @@
 #### Summary:
-This C program asks the user for the dimensions of three sides of a triangle. If the side dimensions can make a valid triangle, the program will use those valies to calculate the permiter and the area of the valid triangle. The program exits if it is not a valid triangle.
+This C program asks the user for the dimensions of three sides of a triangle. If the side dimensions can make a valid triangle, the program will use those values to calculate the permiter and the area of the valid triangle. The program exits if it is not a valid triangle.
 
 The program then asks the user for a width and length of a rectangle, calculates the area of the rectangle, and compares it to the area of the valid triangle.
 
